@@ -1,19 +1,33 @@
-section {
-  padding-top: 50px;
-  padding-bottom: 50px;
+section{
+    padding-top: 50px;
+    padding-bottom:50px;
 }
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 300px; 
-  height: auto; 
+img{
+  display: block;
+  margin-left: auto; 
+  margin-right: auto; 
+  width: 200px;
+  height: auto;
 }
-body {
-  background-image: linear-gradient(to bottom, #ECDDD0, #2575fc);
+body{
+    background-image: linear-gradient(to bottom,#ECDDD0, #2575fc);
 }
-header {
-    background-color: #ECDDD0; 
-    padding: 20px;
-    color: white;
-  }
+header{
+    background-color:#ECDDD0 ;
+    padding: 20px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
